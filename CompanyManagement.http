@@ -1,0 +1,6 @@
+@CompanyManagement_HostAddress = http://localhost:5001
+
+GET {{CompanyManagement_HostAddress}}/Company/
+Accept: application/json
+
+###
